@@ -1,0 +1,15 @@
+{
+  "name": "infra-2019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Chris Dickinson <chris@neversaw.us> (http://neversaw.us/)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "json": "^9.0.6"
+  }
+}
