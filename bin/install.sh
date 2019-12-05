@@ -116,8 +116,3 @@ check_version_ansible
 check_version_packer
 check_version_terraform
 npm i
-
-echo 'Activating virtualenv in order to check your credentials. You will be prompted for your password and secret key for 1password.'
-deactivate
-SKIP_SIGNIN= . env/bin/activate
-
