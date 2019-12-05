@@ -33,5 +33,5 @@ resource "aws_route53_record" "www" {
   name    = "www.entropic.dev"
   type    = "CNAME"
   ttl     = "86400"
-  records = ["entropic.dev"]
+  records = ["entropic-dev.github.io"]
 }
